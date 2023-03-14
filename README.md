@@ -34,3 +34,4 @@ The project involves the following steps:
 
 
 The project will help Superstone gain insights into its sales performance and identify areas where it can improve. The reports and dashboards created in Power BI will provide an interactive and visually appealing way to explore the data, making it easier for decision-makers to gain insights and take action. Overall, this project will demonstrate the power of Microsoft Power BI as a tool for data analysis and visualization.
+
