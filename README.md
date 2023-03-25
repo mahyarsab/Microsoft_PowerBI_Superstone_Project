@@ -1,5 +1,6 @@
 # Microsoft_PowerBI_Superstone_Project
 
+- [Microsoft Power BI File](https://github.com/mahyarsab/Microsoft_PowerBI_Superstone_Project/blob/main/Mahyar_PowerBI_Project.pbix)
 
 The goal of this project is to perform a detailed analysis of the Superstone sales dataset using Microsoft Power BI. Superstone is a fictional company that sells various products, including furniture, office supplies, and technology equipment. The dataset includes information on customer demographics, product categories, sales amounts, and other related information.
 
